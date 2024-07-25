@@ -15,6 +15,7 @@ import java.util.Map;
 /**
  * Created by kwk on 23/10/15
  * 根据url找对应搜索词
+ * 自定义位置
  */
 public class GeneThemeTransformer extends Transformer {
 
