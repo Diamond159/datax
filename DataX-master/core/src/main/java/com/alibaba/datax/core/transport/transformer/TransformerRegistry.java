@@ -29,6 +29,7 @@ public class TransformerRegistry {
         /**
          * add native transformer
          * local storage and from server will be delay load.
+         * 注册对应的transformer，让工具能找到对应的transformer
          */
 
         registTransformer(new SubstrTransformer());
